@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" style="max-width: 100%;" alt="my_Scooby_3Dmodel" />
+  <img src="https://github.com/Georgy5/Georgy5/blob/master/smiling_man_sunglasses.jpg" alt="Smiling Man w/ shades" />
   <br />
   <br />
 
