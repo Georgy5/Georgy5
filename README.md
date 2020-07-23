@@ -1,5 +1,13 @@
-### I like stickers
+<div align="center">
+  <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" style="max-width: 100%;" alt="my_Scooby_3Dmodel" />
+  <br />
+  <br />
 
+  <p><strong>My name is Karl, aka Georgy, and I like Stickers</strong></p>
+
+  <br />
+
+</div>
 <!--
 **Georgy5/Georgy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
