@@ -3,7 +3,7 @@
   <br />
   <br />
 
-  <p><strong>My name is Karl, aka Georgy, and I like Stickers</strong></p>
+  <p><strong>My alias is Georgy, and I like Stickers</strong></p>
 
   <br />
 
