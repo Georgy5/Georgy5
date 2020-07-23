@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Georgy5/Georgy5/blob/master/smiling_man_sunglasses.jpg" height="220px" alt="Smiling Man w/ shades" />
+  <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" width="50%" alt="my_Scooby_3Dmodel" />
   <br />
   <br />
 
-  <p><strong>My alias is Georgy, and I like Stickers</strong></p>
+  <p><strong>My alias is Georgy, and I just found the Github profile README</strong></p>
 
   <br />
 
