@@ -3,7 +3,8 @@
   <br />
   <br />
 
-  <p><strong>My alias is Georgy, and I just found the Github profile README</strong></p>
+  <p>My alias is <strong>Georgy</strong>, and I just found the Github profile README</p>
+  <p>🌱 I’m currently learning Web Development focused on Ruby on Rails</p>
 
   <br />
 
