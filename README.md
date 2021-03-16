@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/karl-keller"><img align="right" src="https://live.staticflickr.com/8296/7749079740_113c14cc98_w.jpg" height="60px" width="60px"></a>
 
 - 🌱 I just completed my Web Developer Bootcamp at Le Wagon
-- 🔭 I’m currently working on polishing up my bootcamp projects, ubgrading Karddit to Rails 6 and finishing the POODR book by Sandi Metz.
-- 💻 I know: Web development (HTML, CSS, Javascript), Ruby on Rails, Python, Java, C#, VB 6.0, Pascal ...no wait, that's going too far back!
+- 🔭 I’m currently working on polishing up my bootcamp projects, upgrading Karddit to Rails 6 and finishing the POODR book by Sandi Metz.
+- 💻 I know: Web development (HTML, CSS, Javascript), Ruby on Rails, Python 2.x, Java 1.6, C#, VB 6.0, Pascal ...no wait, that's going too far back!
 - 💬 Ask me about: Web development, Cars, Scale model building
 - 👯 I’m looking to collaborate on JavaScript 30 by Wes Bos (I havn't started yet)
 
