@@ -8,15 +8,16 @@
 - 💬 Ask me about: Web development, Cars, Scale model building
 - 👯 I’m looking to collaborate on JavaScript 30 by Wes Bos (I havn't started yet)
 
-
 <div align="center">
   <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" width="50%" alt="my_Scooby_3Dmodel" />
   <br />
   <br />
-
   <p>My alias is <strong>Georgy</strong>, from my second name</p>
   <br />
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=georgy5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Georgy5/Georgy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
