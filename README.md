@@ -10,6 +10,9 @@
 - 💬 Ask me about: Software development, Cars, Scale model building
 - 👯 I like Pair Programming, preferably using the Driver and Navigator flow  ...I'd still like to try Ping Pong pairing on code katas
 - 👯 I’m looking to collaborate on JavaScript 30 by Wes Bos
+<a href="https://www.codewars.com/users/Georgy5">
+  <img src="https://www.codewars.com/users/Georgy5/badges/large">
+</a>
 
 <div align="center">
   <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" width="50%" alt="my_Scooby_3Dmodel" />
