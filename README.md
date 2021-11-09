@@ -6,7 +6,7 @@
 - 💻 I know: Fullstack Web development, Database Design and Development, Object-Oriented Programming and more...
 - 💻 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Python 2.x, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
 - 💬 Ask me about: Software development, Cars, Scale model building
-- 👯 I like Pair Programming, preferably using the Driver and Navigator flow  ...I'd still like to try Ping Pong pairing on code katas
+- 👯 I like Pair Programming
 <a href="https://www.codewars.com/users/Georgy5">
   <img src="https://www.codewars.com/users/Georgy5/badges/large">
 </a>
