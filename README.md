@@ -3,7 +3,8 @@
 
 - 🌱 [Le Wagon](https://www.lewagon.com/) Web Developer Bootcamp alumni  Batch #480 (graduated 2021)
 - 💻 I know: Fullstack Web development, Database Design and Development, Object-Oriented Programming and more...
-- 💻 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Python 2.x, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
+- 💿 I prefer the Backend. The Frontend is not my forte
+- 🔧 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Python 2.x, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
 - 💬 Ask me about: Software development, Cars, Scale model building
 - 👯 I like Pair Programming
 
