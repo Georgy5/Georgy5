@@ -1,13 +1,17 @@
 
 ## Hey there 👋
+<a href="https://www.linkedin.com/in/karl-keller"><img align="right" src="https://live.staticflickr.com/8296/7749079740_113c14cc98_w.jpg" height="60px" width="60px"></a>
 
-- 🌱 [Le Wagon](https://www.lewagon.com/) Web Developer Bootcamp alumni  Batch #480 (graduated 2021)
+- 🌱 [Le Wagon](https://www.lewagon.com/) Web Developer Bootcamp alumni  Batch #480
 - 💻 I know: Fullstack Web development, Database Design and Development, Object-Oriented Programming and more...
 - 💿 I prefer the Backend. The Frontend is not my forte
-- 🔧 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Python 2.x, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
+- 🔧 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Hotwire, ~Python 2.x~, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
+- 🌱 I’m currently learning TDD with RSpec, (used Mocha and Cypress in 2021)   ...and started learning React again
 - 💬 Ask me about: Software development, Cars, Scale model building
-- 👯 I like Pair Programming
+- 📖 Currently reading "Layered Design for Ruby on Rails Applications"
+- 👯 I like Pair Programming  ...currently collaborating with my [Codum](https://www.codum.cc/) study buddy
 
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,js,figma,git)](https://skillicons.dev)
 <div align="center">
   <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" width="50%" alt="my_Scooby_3Dmodel" />
   <br />
