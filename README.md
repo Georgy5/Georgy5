@@ -5,7 +5,7 @@
 - 🌱 [Le Wagon](https://www.lewagon.com/) Web Developer Bootcamp alumni  Batch #480
 - 💻 I know: Fullstack Web development, Database Design and Development, Object-Oriented Programming and more...
 - 💿 I prefer the Backend. The Frontend is not my forte
-- 🔧 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Hotwire, ~Python 2.x~, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...no wait, that's going too far back!
+- 🔧 Tools: HTML, CSS, Javascript, Git, Ruby on Rails, Hotwire, ~Python 2.x~, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...that's going too far back!
 - 🌱 I’m currently learning TDD with RSpec, (used Mocha and Cypress in 2021)   ...and started learning React again
 - 💬 Ask me about: Software development, Cars, Scale model building
 - 📖 Currently reading "Layered Design for Ruby on Rails Applications"
