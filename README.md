@@ -11,7 +11,7 @@
 - 📖 Currently reading "Layered Design for Ruby on Rails Applications"
 - 👯 I like Pair Programming  ...currently collaborating with my [Codum](https://www.codum.cc/) study buddy
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,js,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,postgres,sqlite,js,git,heroku,figma)](https://skillicons.dev)
 <div align="center">
   <img src="https://github.com/Georgy5/Georgy5/blob/master/GC8.rendered.in.DAZ.png?raw=true" width="50%" alt="my_Scooby_3Dmodel" />
   <br />
