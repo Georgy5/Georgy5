@@ -4,13 +4,13 @@
 
 - 🌱 [Le Wagon](https://www.lewagon.com/) Web Developer Bootcamp alumni  Batch #480
 - 💻 I know: Fullstack Web development, Database Design and Development, Object-Oriented Programming and more...
-- 🔭 I’m currently learning React and practicing more JavaScript to expand my Fullstack reportoire
 - 🔧 Tools: HTML, CSS, JavaScript, Git, Ruby on Rails, Hotwire, ~Python 2.x~, ~Java 1.6~, ~C#~, ~VB 6.0~, ~Pascal~ ...that's going too far back!
-- 🌱 I’m currently practicing TDD with RSpec (used Mocha and Cypress in 2021)
+- 🌱 ~I’m currently practicing~ TDD with RSpec (used Mocha and Cypress in 2021)
+- 🔭 I’m currently wrangling legacy code at work
 - 💿 I prefer the Backend over the Frontend
 - 💬 Ask me about: Software development, Cars, Scale model building
 - 📖 Currently reading "Layered Design for Ruby on Rails Applications"
-- 👯 I like Pair Programming  ...currently collaborating with my [Codum](https://www.codum.cc/) study buddy
+- 👯 I like Pair Programming  ...lastly with my [Codum](https://www.codum.cc/) study buddy
 
 <div align="center">
   <a href="https://skillicons.dev">
